@@ -1,2 +1,4 @@
 this is a note for test
 I love sleep too zZ~
+I'm studying git
+and maybe my note is too verbose
